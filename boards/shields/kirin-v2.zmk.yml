@@ -1,0 +1,10 @@
+file_format: "1"
+id: kirin-v2
+name: kirin-v2
+type: shield
+#url:
+requires: [nice_nano_v2]
+exposes: [spi]
+features:
+  - keys
+  - zmk studio
