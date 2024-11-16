@@ -1,2 +1,2 @@
 config SHIELD_KIRINV2
-    def_bool $(shields_list_contains,SHIELD_KIRINV2)
+    def_bool $(shields_list_contains,kirinv2)
