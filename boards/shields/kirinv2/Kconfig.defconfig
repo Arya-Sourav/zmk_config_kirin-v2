@@ -4,7 +4,7 @@
 if SHIELD_KIRIN-V2
 
 config ZMK_KEYBOARD_NAME
-    default "kirin-v2"
+    default "kirinv2"
 
 config SPI
     default y

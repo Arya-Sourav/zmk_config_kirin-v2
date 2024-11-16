@@ -1,6 +1,6 @@
 file_format: "1"
-id: kirin-v2
-name: kirin-v2
+id: kirinv2
+name: kirinv2
 type: shield
 #url:
 requires: [nice_nano_v2]
