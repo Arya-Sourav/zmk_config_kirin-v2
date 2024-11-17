@@ -154,7 +154,7 @@
             ;
     };
 
-    default_transform: keymap_transform 0 {
+    default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
         columns = <16>;
         rows = <6>;
