@@ -4,7 +4,7 @@ name: kirinv2
 type: shield
 #url:
 requires: [nice_nano_v2]
-exposes: [spi]
+#exposes: 
 features:
   - keys
   - zmk studio
