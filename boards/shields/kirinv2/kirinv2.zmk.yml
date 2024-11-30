@@ -3,7 +3,7 @@ id: kirinv2
 name: kirinv2
 type: shield
 #url:
-requires: [nice_nano_v2]
+requires: [supermini_rp2040]
 #exposes: 
 features:
   - keys
