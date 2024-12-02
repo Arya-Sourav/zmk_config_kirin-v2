@@ -3,7 +3,7 @@ id: kirinv2
 name: kirinv2
 type: shield
 #url:
-requires: [supermini_rp2040]
+requires: [sparkfun_pro_micro_rp2040]
 #exposes: 
 features:
   - keys
